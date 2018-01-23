@@ -1,0 +1,9 @@
+[submodule "xsight-react-ui"]
+	path = xsight-react-ui
+	url = https://github.com/rapier1/xsight-react-ui
+[submodule "xsight-listener"]
+	path = xsight-listener
+	url = https://github.com/rapier1/xsight-listener
+[submodule "xsight-analyzer"]
+	path = xsight-analyzer
+	url = https://github.com/rapier1/xsight-analyzer
